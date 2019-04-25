@@ -1,0 +1,23 @@
+{
+  "name": "bowling-score-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettMatsumoto/Bowling-Score-Calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrettMatsumoto/Bowling-Score-Calculator/issues"
+  },
+  "homepage": "https://github.com/BrettMatsumoto/Bowling-Score-Calculator#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
